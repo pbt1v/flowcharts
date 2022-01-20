@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:05:13.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8wyLRNBWeeXErFzY98ks" version="16.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-20T00:31:20.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IkEwyHy3uQq09vA70GMu" version="16.4.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login Flow">
-    <mxGraphModel dx="2292" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2457" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -109,19 +109,14 @@
             <mxPoint x="28" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vToIZrzD1xcb0V_lNvqc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DHNhmdYaWDV8ZC-45HrW-20" target="oLDr2ggTQ9F9CvDmo2Lk-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="flw7VRJks0TaDgTj2Wg2-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Purchase Pro Plan ➡️&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DHNhmdYaWDV8ZC-45HrW-20" target="wzAFrDtYmej5_i7eFDGN-2">
+          <mxGeometry x="-0.6298" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-540" y="650" />
-              <mxPoint x="-750" y="650" />
-              <mxPoint x="-750" y="700" />
-              <mxPoint x="-815" y="700" />
+              <mxPoint x="-480" y="613" />
+              <mxPoint x="-480" y="768" />
+              <mxPoint x="-375" y="768" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vToIZrzD1xcb0V_lNvqc-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Purchase Pro Plan ➡️&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vToIZrzD1xcb0V_lNvqc-22" vertex="1" connectable="0">
-          <mxGeometry x="0.1595" y="2" relative="1" as="geometry">
-            <mxPoint x="-98" y="-126" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DHNhmdYaWDV8ZC-45HrW-20" value="&lt;a href=&quot;data:page/id,Cjgt9jFM1V30jB4g_Zc7&quot;&gt;Authenticate Token Logic&lt;/a&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -236,19 +231,20 @@
         <mxCell id="JTo9migi4eIEkYqNF4xg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTo9migi4eIEkYqNF4xg-3" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-930" y="173" />
               <mxPoint x="-710" y="173" />
               <mxPoint x="-710" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTo9migi4eIEkYqNF4xg-3" value="Products Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1050" y="143.13" width="120" height="60" as="geometry" />
+        <mxCell id="JTo9migi4eIEkYqNF4xg-3" value="Products Page" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1040" y="145.01" width="150" height="56.87" as="geometry" />
         </mxCell>
         <mxCell id="JTo9migi4eIEkYqNF4xg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTo9migi4eIEkYqNF4xg-5" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTo9migi4eIEkYqNF4xg-5" value="Navbar" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1050" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="JTo9migi4eIEkYqNF4xg-5" value="Navbar" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);fillColor=rgb(255, 255, 255);" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1010" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzAFrDtYmej5_i7eFDGN-2" value="Conditions for redirection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBorderColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-480" y="920" width="140" height="150" as="geometry">
