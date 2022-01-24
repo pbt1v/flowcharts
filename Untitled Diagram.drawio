@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T18:23:48.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="aL9Uwaz0qQYERDLe2BMx" version="16.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-24T20:46:28.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0rTPvWk20Uuu5CtgPEJT" version="16.4.5" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login Flow">
-    <mxGraphModel dx="2973" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2122" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Magic token via template 3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Magic token via TEM 3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-525" y="155.01" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="N-eQlCVIpRMiX8yEnDeA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-11" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
@@ -49,22 +49,22 @@
             <mxPoint x="-640" y="241.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-eQlCVIpRMiX8yEnDeA-16" value="Magic token via template 1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="N-eQlCVIpRMiX8yEnDeA-16" value="Magic token via TEM 1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-642.5" y="156.88" width="85" height="45" as="geometry" />
         </mxCell>
         <mxCell id="N-eQlCVIpRMiX8yEnDeA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-18" target="N-eQlCVIpRMiX8yEnDeA-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXMNn8U7IOmT7y54L6Hu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-18" target="DHNhmdYaWDV8ZC-45HrW-23">
+        <mxCell id="cXMNn8U7IOmT7y54L6Hu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-18" target="DHNhmdYaWDV8ZC-45HrW-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXMNn8U7IOmT7y54L6Hu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-18" target="DHNhmdYaWDV8ZC-45HrW-21">
+        <mxCell id="cXMNn8U7IOmT7y54L6Hu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-18" target="DHNhmdYaWDV8ZC-45HrW-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-eQlCVIpRMiX8yEnDeA-18" value="Login to Website" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-610" y="254.38" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-eQlCVIpRMiX8yEnDeA-25" value="Send information about downloading app via template 2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="N-eQlCVIpRMiX8yEnDeA-25" value="Send information about downloading app via TEM 2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-810" y="234.38" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N-eQlCVIpRMiX8yEnDeA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N-eQlCVIpRMiX8yEnDeA-31" target="N-eQlCVIpRMiX8yEnDeA-18" edge="1">
